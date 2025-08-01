@@ -1,6 +1,9 @@
 # Golf Tournament System REST API
 This is a Spring Boot REST API for managing Golf Club Members and Tournaments. The API allows CRUD operations on members and tournaments, linking members to tournaments, and supports search functionalities.
 
+#### Author: Laura Wiseman
+#### Date: August 1st, 2025
+
 ## Features
 - Add / View / Update / Delete Members
 
